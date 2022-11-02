@@ -1,0 +1,52 @@
+{
+  "enemyDamageStatus": [
+    {
+      "id": "artillery_health",
+      "damage": "none",
+      "enemyDamageStatusBg": {},
+      "enemyDamageStatusIcon": {
+        "background-image": "#ui/gameuiskin#dmg_ship_artillery.svg"
+      }
+    },
+    {
+      "id": "fire_status",
+      "damage": "none",
+      "enemyDamageStatusBg": {},
+      "enemyDamageStatusIcon": {
+        "background-image": "#ui/gameuiskin#dmg_ship_fire.svg"
+      }
+    },
+    {
+      "id": "engine_health",
+      "damage": "none",
+      "enemyDamageStatusBg": {},
+      "enemyDamageStatusIcon": {
+        "background-image": "#ui/gameuiskin#dmg_ship_engine.svg"
+      }
+    },
+    {
+      "id": "torpedo_tubes_health",
+      "damage": "none",
+      "enemyDamageStatusBg": {},
+      "enemyDamageStatusIcon": {
+        "background-image": "#ui/gameuiskin#dmg_ship_torpedo_tubes.svg"
+      }
+    },
+    {
+      "id": "rudders_health",
+      "damage": "none",
+      "enemyDamageStatusBg": {},
+      "enemyDamageStatusIcon": {
+        "background-image": "#ui/gameuiskin#dmg_ship_rudders.svg"
+      }
+    },
+    {
+      "id": "breach_status",
+      "damage": "none",
+      "enemyDamageStatusBg": {},
+      "enemyDamageStatusIcon": {
+        "background-image": "#ui/gameuiskin#dmg_ship_breach.svg"
+      }
+    }
+  ]
+}

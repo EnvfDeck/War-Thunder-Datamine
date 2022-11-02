@@ -1,0 +1,403 @@
+{
+  "mapsDirName": "worldWar/maps",
+  "armyVisualSize": 1.0,
+  "guiMap": {
+    "useAARender": true,
+    "patternRounded": "ui/map_pattern_a",
+    "mapPatternScale": 40.0,
+    "zoomStep": 1.1,
+    "zoomMax": 3.0,
+    "alliesArmyColor": "AKjf4A==",
+    "enemiesArmyColor": "tjo+4A==",
+    "ownedArmyColor": "VK9W4A==",
+    "alliesArmyColorFar": "Ko3MZg==",
+    "enemiesArmyColorFar": "5gcPTQ==",
+    "alliesFrontLineColor": "HVt3/w==",
+    "enemiesFrontLineColor": "0joe/w==",
+    "selectedArmyOutlineColor": "/+RR/w==",
+    "alliesArmyColorPath": "Ko3MOw==",
+    "enemiesArmyColorPath": "4ZSJUA==",
+    "alliesArmyColorArrow": "EFh49Q==",
+    "enemiesArmyColorArrow": "nC4a9Q==",
+    "alliesArmyColorArrowUnpassable": "/wAA9Q==",
+    "enemiesArmyColorArrowUnpassable": "/wAA9Q==",
+    "alliesArmyColorArrowPotentialDisabledUnpassable": "pGWjQA==",
+    "enemiesArmyColorArrowPotentialDisabledUnpassable": "pGWjQA==",
+    "alliesArmyColorDirArrow": "AKjf/w==",
+    "enemiesArmyColorDirArrow": "/UI4/w==",
+    "alliesArmyColorArrowPotentialDisabled": "EFh4QA==",
+    "enemiesArmyColorArrowPotentialDisabled": "nC4aQA==",
+    "alliesArmyColorFarPopup": "Ko3MwA==",
+    "enemiesArmyColorFarPopup": "5gcPqA==",
+    "alliesZonesColorRear": "HVt3Ig==",
+    "enemiesZonesColorRear": "0joeIg==",
+    "airfieldArrowFirstCircleRadius": 0.85,
+    "airfieldArrowArmyColor": "VK9W4A==",
+    "airfieldArrowLastCircleColor": "/+RRQA==",
+    "airfieldArrowArmyShowK": 2.6,
+    "unloadCursorAlpha": 180,
+    "unloadPossibleCursorOutlineColor": "AP8AtA==",
+    "unloadImpossibleCursorOutlineColor": "/wAAoA==",
+    "zonesColor_SIDE_NONE": "////IA==",
+    "zonesColor_SIDE_1": "8B0jIA==",
+    "zonesColor_SIDE_2": "ZMb3IA==",
+    "zonesColor_SIDE_3": "////IA==",
+    "armiesColor_SIDE_NONE": "AAAA/w==",
+    "armiesColor_SIDE_1": "8B0j/w==",
+    "armiesColor_SIDE_2": "ZMb3/w==",
+    "armiesColor_SIDE_3": "AAD//w==",
+    "alliesZonesColor": "GJTFAA==",
+    "enemiesZonesColor": "5gcPAA==",
+    "alliesZonesColorRounded": "////GA==",
+    "enemiesZonesColorRounded": "////GA==",
+    "alliesZonesGridColor": "eHh4Jg==",
+    "enemiesZonesGridColor": "////Jg==",
+    "pathOutlineWidth": 2.0,
+    "armyOutlineColor": "LS0ttA==",
+    "armyNearRadiusOnlyOutlineColor": "8PDwvg==",
+    "armyNearRadiusOnlyEntrenchedOutlineColor": "8PDwvg==",
+    "nearRadiusOutlineWidth": 2.0,
+    "selectedArmyOutlineWidth": 3.0,
+    "arrowLineWidth": 2.4,
+    "arrowLengthK": 0.89,
+    "arrowWidthK": 0.81,
+    "arrowDirLenghtK": 0.39,
+    "arrowDirWidthK": 0.44,
+    "arrowSizeK": 0.54,
+    "arrowSharpness": 30.0,
+    "jointRadiusK": 0.48,
+    "alliesArrowLastCircleColor": "vr6+3A==",
+    "enemiesArrowLastCircleColor": "vr6+3A==",
+    "alliesArrowLastCircleColorDisabled": "AKjfQA==",
+    "enemiesArrowLastCircleColorDisabled": "4Ku3QA==",
+    "minDistBetweenJointsK": 1.0,
+    "gridWidth": 3,
+    "hoverZoneGridWidth": 3,
+    "hoverZonesGridColor": "8PDmlg==",
+    "outlinedZonesGridColor": "8PDm/w==",
+    "highlightedZonesGridColor0": "8PDm/w==",
+    "highlightedZonesGridColor1": "HVt3ZA==",
+    "highlightedZonesGridColor2": "0joeZA==",
+    "highlightedZonesGridColor3": "AAAAAA==",
+    "font": "hud",
+    "battleColorActive": "/+RR/w==",
+    "battleColorInactive": "/////w==",
+    "battleColorFull": "kZGR/w==",
+    "battleColorFake": "kZGR/w==",
+    "battleColorStartedOnServer": "/wAA/w==",
+    "battleColorEnded": "ZGRk/w==",
+    "hoveredBattleColorActive": "/+RR/w==",
+    "hoveredBattleColorInactive": "/////w==",
+    "hoveredBattleColorFull": "kZGR/w==",
+    "hoveredBattleColorFake": "kZGR/w==",
+    "hoveredBattleColorStartedOnServer": "/wAA/w==",
+    "hoveredBattleColorEnded": "ZGRk/w==",
+    "hoveredBattleSizeKActive": 0.96,
+    "hoveredBattleDisableBlink": true,
+    "hoveredBattleEnablePopup": true,
+    "hoverPopupOnlyForActiveBattles": false,
+    "battleIconSizeActive": 0.065,
+    "battleIconSizeInactive": 0.065,
+    "battleIconSizeFull": 0.065,
+    "battleIconSizeFake": 0.065,
+    "battleIconSizeStartedOnServer": 0.065,
+    "battleIconSizeEnded": 0.065,
+    "battlesIconBlinkEffActive": 0.0,
+    "battlesIconBlinkEffInactive": 0.0,
+    "battlesIconBlinkEffFull": 0.0,
+    "battlesIconBlinkEffFake": 0.0,
+    "battlesIconBlinkEffStartedOnServer": 0.0,
+    "battlesIconBlinkEffEnded": 0.0,
+    "battlesIconBlinkPeriodMsActive": 1200,
+    "battleTexActive": "ui/gameuiskin#battles_open",
+    "battleTexInactive": "ui/gameuiskin#battles_open",
+    "battleTexFull": "ui/gameuiskin#battles_closed",
+    "battleTexFake": "ui/gameuiskin#battles_closed",
+    "battleTexStartedOnServer": "ui/gameuiskin#battles_open",
+    "battleTexEnded": "ui/gameuiskin#battles_closed",
+    "battleTexHoveredActive": "ui/gameuiskin#battles_open_hover",
+    "battleTexHoveredInactive": "ui/gameuiskin#battles_open_hover",
+    "battleTexHoveredFull": "ui/gameuiskin#battles_closed_hover",
+    "battleTexHoveredFake": "ui/gameuiskin#battles_closed_hover",
+    "battleTexHoveredStartedOnServer": "ui/gameuiskin#battles_open_hover",
+    "battleTexHoveredEnded": "ui/gameuiskin#battles_closed_hover",
+    "battleMsgWin": "worldwar/battle/battleResultWin",
+    "battleMsgFail": "worldwar/battle/battleResultFail",
+    "battleMsgArmyWasDestroyed": "worldwar/battle/armyDestroyed",
+    "battleMsgBackgroundSize": [
+      70.0,
+      18.0
+    ],
+    "battleMsgArrowSize": [
+      21.0,
+      9.0
+    ],
+    "battleMsgBackgroundBorderOffset": [
+      5.0,
+      5.0,
+      5.0,
+      5.0
+    ],
+    "battleMsgBackgroundColor": "////yA==",
+    "battleMsgBackgroundYOffset": 3.0,
+    "battleMsgWinColor": "AKjf/w==",
+    "battleMsgFailColor": "2kg+/w==",
+    "armyDestroyedMsgBorderSize": [
+      8.0,
+      8.0,
+      8.0,
+      6.0
+    ],
+    "armyDestroyedMsgLineSpacing": 3.0,
+    "battleResultMsgFont": "tiny_text_hud",
+    "armyDestroyedMsgFont": "tiny_text_hud",
+    "battleResultMsgTextSize": 0.7,
+    "armyDestroyedMsgTextSize": 0.6,
+    "battleResultMsgFontSize": 15,
+    "armyDestroyedMsgFontSize": 15,
+    "utilsTexMessageBackground": "ui/gameuiskin#popup_menu_flat_bg",
+    "utilsTexMessageBackgroundArrow": "ui/gameuiskin#popup_menu_flat_arrow",
+    "fontArmyGroup": "hud",
+    "armyGroupTextSize": 0.7,
+    "armyGroupTextColor": "//8A/w==",
+    "fontSymbol": "hud",
+    "airfieldSize": 0.077,
+    "entrenchTex": "ui/gameuiskin#army_defense",
+    "entrenchIconsizeK": 0.09,
+    "entrenchIconOffset": [
+      0.0,
+      2.2
+    ],
+    "entrenchIconColor": "LS0ttA==",
+    "zonesNameSize": 0.05,
+    "hoverZonesNameSize": 0.05,
+    "zonesNameOffset": [
+      38.0,
+      -32.0
+    ],
+    "zonesNameColor": "AAAA/w==",
+    "hoverZonesNameColor": "Eycx/w==",
+    "zonesNameFont": "hud",
+    "zonesNameAlignV": 1,
+    "zonesNameAlignH": 1,
+    "topZonesNameOffset": [
+      25.0,
+      50.0
+    ],
+    "topZonesNameAlignV": 1,
+    "topZonesNameAlignH": 1,
+    "renderArmyGroupIndex": false,
+    "artilleryStrikeTexCursor": "ui/gameuiskin#artillery_target_arc.svg:48:48:K",
+    "artilleryCursorActiveColor": "AP8A/w==",
+    "artilleryCursorDisabledColor": "/wAA/w==",
+    "artilleryCursorMinColor": "oKCggA==",
+    "artilleryCursorOffset": [
+      0.0,
+      -5.0
+    ],
+    "artilleryCursorSize": 0.5,
+    "artilleryStrikeTexCross": "ui/gameuiskin#chat_icon_attack",
+    "artilleryStrikeCircleColor": "/wAA/w==",
+    "artilleryStrikeCircleColor2": "//8A/w==",
+    "artilleryStrikeCrossColor": "/wAAAA==",
+    "artilleryStrikeCrossColor2": "/wAAAA==",
+    "artilleryStrikeCrossFireingColor": "/wAA/w==",
+    "artilleryStrikeCrossFireingColor2": "//8A/w==",
+    "artilleryStrikeTexFire": "ui/gameuiskin#ww_artillery_fire",
+    "artilleryFireIconSize": 0.1,
+    "artilleryFireIconOffset": [
+      2.0,
+      -1.0
+    ],
+    "artilleryStrikeBlinkPeriodMs": 1000,
+    "hudNumQuads": 40000,
+    "armyIconAir": {
+      "text": "worldwar/iconAir",
+      "offset": [
+        0.0,
+        -1.0
+      ],
+      "size": 0.085
+    },
+    "armyIconGround": {
+      "text": "worldwar/iconGround",
+      "offset": [
+        0.0,
+        -3.0
+      ],
+      "size": 0.069
+    },
+    "armyIconWater": {
+      "text": "worldwar/iconWater",
+      "offset": [
+        0.0,
+        1.5
+      ],
+      "size": 0.065
+    },
+    "armyIconInfantry": {
+      "text": "worldwar/iconInfantry",
+      "offset": [
+        1.0,
+        -0.5
+      ],
+      "size": 0.077
+    },
+    "armyIconArtillery": {
+      "text": "worldwar/iconArtilleryFire",
+      "textArtilleryReadyToFire": "worldwar/iconArtillery",
+      "offset": [
+        1.0,
+        -0.5
+      ],
+      "size": 0.071
+    },
+    "armyIconCustom": [
+      {
+        "name": "infantry",
+        "text": "worldwar/iconInfantry",
+        "offset": [
+          1.0,
+          -0.5
+        ],
+        "size": 0.077
+      },
+      {
+        "name": "assault",
+        "text": "worldwar/iconAssault",
+        "offset": [
+          0.0,
+          -1.0
+        ],
+        "size": 0.075
+      },
+      {
+        "name": "bomber",
+        "text": "worldwar/iconBomber",
+        "offset": [
+          0.0,
+          -1.0
+        ],
+        "size": 0.077
+      },
+      {
+        "name": "helicopter",
+        "text": "worldwar/iconHelicopter",
+        "textLoadedInfantry": "worldwar/iconHelicopterInfantry",
+        "offset": [
+          0.0,
+          0.0
+        ],
+        "size": 0.085
+      },
+      {
+        "name": "coastalArtillery",
+        "text": "worldwar/iconCoastalArtillery",
+        "textArtilleryReadyToFire": "worldwar/iconCoastalArtilleryFire",
+        "offset": [
+          2.0,
+          2.0
+        ],
+        "size": 0.075
+      },
+      {
+        "name": "destroyer",
+        "text": "worldwar/iconWaterDestroyer",
+        "offset": [
+          0.0,
+          1.0
+        ],
+        "size": 0.08
+      },
+      {
+        "name": "cruiser",
+        "text": "worldwar/iconWaterCruiser",
+        "textArtilleryReadyToFire": "worldwar/iconWaterCruiserFire",
+        "offset": [
+          0.0,
+          0.0
+        ],
+        "size": 0.09
+      },
+      {
+        "name": "landingCraftEmpty",
+        "text": "worldwar/iconLandingCraftEmpty",
+        "textLoadedInfantry": "worldwar/iconLandingCraftInfantry",
+        "textLoadedGround": "worldwar/iconLandingCraftTank",
+        "textLoadedArtillery": "worldwar/iconLandingCraftArtillery",
+        "offset": [
+          0.5,
+          1.0
+        ],
+        "size": 0.08
+      }
+    ],
+    "airfieldsTex": {
+      "default": {
+        "airfieldSizeMul": 1.0,
+        "airfieldTex": "ui/gameuiskin#map_airfield",
+        "airfieldTexSelected": "ui/gameuiskin#map_airfield_selected_hover",
+        "airfieldTexHover": "ui/gameuiskin#map_airfield_hover"
+      },
+      "aircraft_carrier": {
+        "airfieldSizeMul": 1.0,
+        "airfieldTex": "ui/gameuiskin#map_aircraft_carrier",
+        "airfieldTexSelected": "ui/gameuiskin#map_aircraft_carrier_selected_hover",
+        "airfieldTexHover": "ui/gameuiskin#map_aircraft_carrier_hover"
+      },
+      "helipad": {
+        "airfieldSizeMul": 1.0,
+        "airfieldArrowIcon": "helicopter",
+        "airfieldTex": "ui/gameuiskin#map_helipad",
+        "airfieldTexSelected": "ui/gameuiskin#map_helipad_selected",
+        "airfieldTexHover": "ui/gameuiskin#map_helipad_hover"
+      }
+    },
+    "sectorSpritesSettings": {
+      "sectorSpritesFont": "hud",
+      "Reinforcement": {
+        "spriteName": "worldWar/iconReinforcement",
+        "spriteSize": 0.1,
+        "spriteOffset": [
+          0.0,
+          0.0
+        ],
+        "blinkPeriod": 1.0,
+        "spriteColor": "/////w==",
+        "blinkColor": "////AA=="
+      },
+      "Airfield": {
+        "spriteName": "worldwar/iconAir",
+        "spriteSize": 0.075,
+        "spriteOffset": [
+          0.0,
+          0.0
+        ],
+        "blinkPeriod": 1.0,
+        "spriteColor": "Wlpa/w==",
+        "blinkColor": "WlpaAA==",
+        "renderOrder": "Airfield"
+      },
+      "Helipad": {
+        "spriteName": "worldwar/iconHelicopter",
+        "spriteSize": 0.075,
+        "spriteOffset": [
+          0.0,
+          0.0
+        ],
+        "blinkPeriod": 1.0,
+        "spriteColor": "Wlpa/w==",
+        "blinkColor": "WlpaAA==",
+        "renderOrder": "Airfield"
+      }
+    }
+  },
+  "client": {
+    "delayParams": {
+      "win32": {
+        "numFramesWithDelayAfterResourcesFree": 100,
+        "frameDelayAfterResourcesFreeMsec": 20
+      }
+    }
+  }
+}

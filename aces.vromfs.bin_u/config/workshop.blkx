@@ -1,0 +1,489 @@
+{
+  "warbond_trophy_exchange": {
+    "locId": "item/trophy",
+    "reqFeature": "ConsolesWorkshopExchange",
+    "items": {
+      "alwaysVisibleItem": [
+        760017,
+        760018,
+        760061,
+        760062,
+        760126,
+        760127
+      ]
+    }
+  },
+  "camo_trophy_exchange": {
+    "locId": "workshop/camo_trophy_exchange",
+    "reqFeature": "ConsolesWorkshopUgcExchange",
+    "hasSubsets": true,
+    "items": [
+      {
+        "setId": "fire_and_ice",
+        "locId": "workshop/fire_and_ice",
+        "reqFeature": "debugWorkshopItemsExchange",
+        "alwaysVisibleItem": [
+          660293,
+          660296,
+          660297,
+          660298,
+          660299
+        ]
+      },
+      {
+        "setId": "drone_age",
+        "locId": "workshop/drone_age",
+        "alwaysVisibleItem": [
+          660285,
+          660288,
+          660289,
+          660290,
+          660291
+        ]
+      },
+      {
+        "setId": "danger_zone",
+        "locId": "workshop/danger_zone",
+        "alwaysVisibleItem": [
+          660277,
+          660280,
+          660281,
+          660282,
+          660283
+        ]
+      },
+      {
+        "setId": "wind_of_change",
+        "locId": "workshop/wind_of_change",
+        "alwaysVisibleItem": [
+          660266,
+          660270,
+          660271,
+          660272,
+          660273,
+          660274,
+          660275
+        ]
+      },
+      {
+        "setId": "winged_lions",
+        "locId": "workshop/winged_lions",
+        "alwaysVisibleItem": [
+          660256,
+          660260,
+          660261,
+          660262,
+          660263,
+          660264,
+          660265
+        ]
+      },
+      {
+        "setId": "ground_breaking",
+        "locId": "workshop/ground_breaking",
+        "alwaysVisibleItem": [
+          660244,
+          660248,
+          660249,
+          660250,
+          660251,
+          660252,
+          660255
+        ]
+      },
+      {
+        "setId": "direct_hit",
+        "locId": "workshop/direct_hit",
+        "alwaysVisibleItem": [
+          660234,
+          660238,
+          660239,
+          660240,
+          660241,
+          660242,
+          660243
+        ]
+      },
+      {
+        "setId": "red_skies",
+        "locId": "workshop/red_skies",
+        "alwaysVisibleItem": [
+          660224,
+          660228,
+          660229,
+          660230,
+          660231,
+          660232,
+          660233
+        ]
+      },
+      {
+        "setId": "ixwa_strike",
+        "locId": "workshop/ixwa_strike",
+        "alwaysVisibleItem": [
+          660214,
+          660218,
+          660219,
+          660220,
+          660221,
+          660222,
+          660223
+        ]
+      },
+      {
+        "setId": "hot_tracks",
+        "locId": "workshop/hot_tracks",
+        "alwaysVisibleItem": [
+          660204,
+          660208,
+          660209,
+          660210,
+          660211,
+          660212,
+          660213
+        ]
+      },
+      {
+        "setId": "new_power",
+        "locId": "workshop/new_power",
+        "alwaysVisibleItem": [
+          760194,
+          760198,
+          760199,
+          660200,
+          660201,
+          660202,
+          660203
+        ]
+      },
+      {
+        "setId": "raining_fire",
+        "locId": "workshop/raining_fire",
+        "alwaysVisibleItem": [
+          760184,
+          760188,
+          760189,
+          760190,
+          760191,
+          760192,
+          760193
+        ]
+      },
+      {
+        "setId": "starfighters",
+        "locId": "workshop/starfighters",
+        "alwaysVisibleItem": [
+          760174,
+          760178,
+          760179,
+          760180,
+          760181,
+          760182,
+          760183
+        ]
+      },
+      {
+        "setId": "viking_fury_test",
+        "locId": "workshop/viking_fury_test",
+        "reqFeature": "debugWorkshopItemsExchange",
+        "alwaysVisibleItem": [
+          760164,
+          760168,
+          760169,
+          760170,
+          760171,
+          760172,
+          760173
+        ]
+      },
+      {
+        "setId": "viking_fury",
+        "locId": "workshop/viking_fury",
+        "alwaysVisibleItem": [
+          760152,
+          760156,
+          760157,
+          760158,
+          760159,
+          760160,
+          760161,
+          760162,
+          760163
+        ]
+      },
+      {
+        "setId": "northern_wind",
+        "locId": "workshop/northern_wind",
+        "alwaysVisibleItem": [
+          760140,
+          760144,
+          760145,
+          760146,
+          760147,
+          760148,
+          760149,
+          760150,
+          760151
+        ]
+      },
+      {
+        "setId": "night_vision",
+        "locId": "workshop/night_vision",
+        "alwaysVisibleItem": [
+          760128,
+          760132,
+          760133,
+          760134,
+          760135,
+          760136,
+          760137,
+          760138,
+          760139
+        ]
+      },
+      {
+        "setId": "imperial_navy_i",
+        "locId": "workshop/imperial_navy_i",
+        "alwaysVisibleItem": [
+          760114,
+          760118,
+          760119,
+          760120,
+          760121,
+          760122,
+          760123,
+          760124,
+          760125
+        ]
+      },
+      {
+        "setId": "locked_on_i",
+        "locId": "workshop/locked_on_i",
+        "alwaysVisibleItem": [
+          760102,
+          760106,
+          760107,
+          760108,
+          760109,
+          760110,
+          760111,
+          760112,
+          760113
+        ]
+      },
+      {
+        "setId": "supersonic_i",
+        "locId": "workshop/supersonic_i",
+        "alwaysVisibleItem": [
+          760089,
+          760093,
+          760094,
+          760095,
+          760096,
+          760097,
+          760098,
+          760099,
+          760100
+        ]
+      },
+      {
+        "setId": "valkyrie_i",
+        "locId": "workshop/valkyrie_i",
+        "alwaysVisibleItem": [
+          760065,
+          760069,
+          760070,
+          760071,
+          760072,
+          760073,
+          760074,
+          760075,
+          760076
+        ]
+      },
+      {
+        "setId": "project_x_ii",
+        "locId": "workshop/project_x_ii",
+        "alwaysVisibleItem": [
+          760049,
+          760053,
+          760054,
+          760055,
+          760056,
+          760057,
+          760058,
+          760059,
+          760060
+        ]
+      },
+      {
+        "setId": "project_x",
+        "locId": "workshop/project_x",
+        "alwaysVisibleItem": [
+          760036,
+          760040,
+          760041,
+          760042,
+          760043,
+          760044,
+          760045,
+          760046,
+          760047
+        ]
+      },
+      {
+        "setId": "advancing_storm",
+        "locId": "workshop/advancing_storm",
+        "alwaysVisibleItem": [
+          760020,
+          760024,
+          760025,
+          760026,
+          760027,
+          760028,
+          760029,
+          760030,
+          760031
+        ]
+      }
+    ]
+  },
+  "summer_2022_exchange": {
+    "locId": "collection/summer_quest_2022",
+    "reqFeature": "DMMandPS4andXBOXAccount",
+    "items": {
+      "alwaysVisibleItem": [
+        760253,
+        760254,
+        760255,
+        760256
+      ]
+    }
+  },
+  "winter_2022_exchange": {
+    "locId": "collection/winter_2022_pinup",
+    "reqFeature": "DMMandPS4andXBOXAccount",
+    "items": {
+      "alwaysVisibleItem": [
+        760245,
+        760246,
+        760247,
+        760248,
+        760249,
+        760250,
+        760251,
+        760252
+      ]
+    }
+  },
+  "summer_2021_exchange": {
+    "locId": "collection/summer_2021_decals",
+    "reqFeature": "DMMandPS4andXBOXAccount",
+    "items": {
+      "alwaysVisibleItem": [
+        760238,
+        760239,
+        760240,
+        760241,
+        760242,
+        760243,
+        760244
+      ]
+    }
+  },
+  "winter_2021_exchange": {
+    "locId": "workshop/winter_2021_exchange",
+    "reqFeature": "DMMandPS4andXBOXAccount",
+    "items": {
+      "alwaysVisibleItem": [
+        760077,
+        760078,
+        760079,
+        760080,
+        760081,
+        760082,
+        760231,
+        760232,
+        760233,
+        760234,
+        760235,
+        760236,
+        760237
+      ]
+    }
+  },
+  "summer_2020_ps4_exchange": {
+    "locId": "workshop/summer_2020_exchange",
+    "reqFeature": "DMMandPS4andXBOXAccount",
+    "items": {
+      "alwaysVisibleItem": [
+        760213,
+        760214,
+        760215,
+        760216,
+        760217,
+        760218,
+        760219,
+        760220,
+        760221,
+        760222,
+        760223,
+        760224,
+        760225,
+        760226
+      ]
+    }
+  },
+  "summer_2019_ps4_exchange": {
+    "locId": "workshop/summer_2019_exchange",
+    "reqFeature": "DMMandPS4andXBOXAccount",
+    "items": {
+      "alwaysVisibleItem": [
+        760200,
+        760201,
+        760202,
+        760203,
+        760204,
+        760205,
+        760206,
+        760207,
+        760208,
+        760209,
+        760210,
+        760211,
+        760212
+      ]
+    }
+  },
+  "additionalRecipes": {},
+  "effectOnStartCraftPresets": {},
+  "effectOnOpenChestPresets": {},
+  "customLocalizationPresets": {
+    "default": {
+      "msgBoxConfirmWhithItemName": "msgBox/assembleItem/confirm",
+      "actionButton": "item/assemble"
+    },
+    "makeTradable": {
+      "modify": "item/makeTradable",
+      "msgBoxConfirmWhithItemName": "msgBox/makeTradable/confirm",
+      "msgBoxCantUse": "msgBox/makeTradable/cant",
+      "openingRewardTitle": "mainmenu/madeTradable/title",
+      "descReceipesListHeaderPrefix": "item/requires/makeTradable/"
+    },
+    "purchaseItem": {
+      "msgBoxConfirmWhithItemName": "msgBox/purchaseItem/confirm"
+    }
+  },
+  "itemMarkingPresets": {
+    "marketableIcon": {
+      "color": "#f1f1d6",
+      "markIconLocId": "currency/gc/sign",
+      "additionalDesc": ""
+    },
+    "marketableIconDesc": {
+      "color": "#f1f1d6",
+      "markIconLocId": "currency/gc/sign",
+      "additionalDesc": "workshop/itemMarkingPresets/marketableIconDesc/desc"
+    }
+  }
+}
