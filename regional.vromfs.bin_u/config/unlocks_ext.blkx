@@ -15246,6 +15246,46 @@
       "hidden": true
     },
     {
+      "id": "starter_variable_0",
+      "type": "achievement",
+      "hidden": true,
+      "mode": {
+        "type": "char_user_id_multiple_of",
+        "divider": 4,
+        "reminder": 0
+      }
+    },
+    {
+      "id": "starter_variable_1",
+      "type": "achievement",
+      "hidden": true,
+      "mode": {
+        "type": "char_user_id_multiple_of",
+        "divider": 4,
+        "reminder": 1
+      }
+    },
+    {
+      "id": "starter_variable_2",
+      "type": "achievement",
+      "hidden": true,
+      "mode": {
+        "type": "char_user_id_multiple_of",
+        "divider": 4,
+        "reminder": 2
+      }
+    },
+    {
+      "id": "starter_variable_3",
+      "type": "achievement",
+      "hidden": true,
+      "mode": {
+        "type": "char_user_id_multiple_of",
+        "divider": 4,
+        "reminder": 3
+      }
+    },
+    {
       "id": "04_03_20_test_newbies_hidden",
       "type": "achievement",
       "hidden": true
