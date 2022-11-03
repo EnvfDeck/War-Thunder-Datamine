@@ -1210,42 +1210,6 @@
       "fictional": true
     }
   },
-  "pinup_10th_anniversary_01": {
-    "category": "special",
-    "group": "pinups",
-    "costGold": -1,
-    "hideUntilUnlocked": true,
-    "tags": {
-      "fictional": true
-    }
-  },
-  "pinup_10th_anniversary_02": {
-    "category": "special",
-    "group": "pinups",
-    "costGold": -1,
-    "hideUntilUnlocked": true,
-    "tags": {
-      "fictional": true
-    }
-  },
-  "10_year_better_together_decal": {
-    "category": "special",
-    "group": "holidays",
-    "costGold": -1,
-    "hideUntilUnlocked": true,
-    "tags": {
-      "fictional": true
-    }
-  },
-  "10th_anniversary_decal": {
-    "category": "special",
-    "group": "holidays",
-    "costGold": -1,
-    "hideUntilUnlocked": true,
-    "tags": {
-      "fictional": true
-    }
-  },
   "wiki_decal": {
     "category": "special",
     "costGold": -1,
@@ -1263,22 +1227,6 @@
     }
   },
   "jp_type_74_mod_g_kai_decal": {
-    "category": "special",
-    "costGold": -1,
-    "hideUntilUnlocked": true,
-    "tags": {
-      "fictional": true
-    }
-  },
-  "il_m_51_w_decal": {
-    "category": "special",
-    "costGold": -1,
-    "hideUntilUnlocked": true,
-    "tags": {
-      "fictional": true
-    }
-  },
-  "germ_pzkpfw_e_100_decal": {
     "category": "special",
     "costGold": -1,
     "hideUntilUnlocked": true,
@@ -2102,50 +2050,26 @@
     "hideUntilUnlocked": true
   },
   "us_text_armored_board": {
-    "category": "usa",
-    "group": "tanks",
+    "category": "special",
+    "group": "battle_pass",
     "costGold": -1,
     "hideUntilUnlocked": true
   },
   "us_text_test_operation": {
-    "category": "usa",
-    "group": "tanks",
+    "category": "special",
+    "group": "battle_pass",
     "costGold": -1,
     "hideUntilUnlocked": true
   },
   "ussr_text_armor_100mm": {
-    "category": "ussr",
-    "group": "tanks",
+    "category": "special",
+    "group": "battle_pass",
     "costGold": -1,
     "hideUntilUnlocked": true
   },
   "ussr_text_armor_punched": {
-    "category": "ussr",
-    "group": "tanks",
-    "costGold": -1,
-    "hideUntilUnlocked": true
-  },
-  "fire_buggy_text": {
-    "category": "usa",
-    "group": "tanks",
-    "costGold": -1,
-    "hideUntilUnlocked": true
-  },
-  "firebird_text": {
-    "category": "usa",
-    "group": "aircraft",
-    "costGold": -1,
-    "hideUntilUnlocked": true
-  },
-  "flaming_fanny_text": {
-    "category": "usa",
-    "group": "tanks",
-    "costGold": -1,
-    "hideUntilUnlocked": true
-  },
-  "mrf_emblem": {
-    "category": "usa",
-    "group": "ships",
+    "category": "special",
+    "group": "battle_pass",
     "costGold": -1,
     "hideUntilUnlocked": true
   },
@@ -2374,17 +2298,6 @@
     "group": "camo_trophy_decal",
     "costGold": -1,
     "marketplaceItemdefId": 300021,
-    "item_quality": 2,
-    "name_color": "1EFF00",
-    "tags": {
-      "fictional": true
-    }
-  },
-  "fire_and_ice_decal": {
-    "category": "special",
-    "group": "camo_trophy_decal",
-    "costGold": -1,
-    "marketplaceItemdefId": 300022,
     "item_quality": 2,
     "name_color": "1EFF00",
     "tags": {
@@ -3573,15 +3486,6 @@
       "fictional": true
     }
   },
-  "halloween_22_decal": {
-    "category": "special",
-    "group": "holidays",
-    "costGold": -1,
-    "hideUntilUnlocked": true,
-    "tags": {
-      "fictional": true
-    }
-  },
   "us_834_bmb_sqn_zodiac_aquaria": {
     "category": "special",
     "group": "pinups",
@@ -4117,25 +4021,6 @@
     "group": "snails",
     "costGold": -1,
     "hideForLang": "HChinese",
-    "hideUntilUnlocked": true,
-    "tags": {
-      "fictional": true
-    }
-  },
-  "helloween_2022_snail": {
-    "category": "special",
-    "group": "snails",
-    "costGold": -1,
-    "hideForLang": "HChinese",
-    "hideUntilUnlocked": true,
-    "tags": {
-      "fictional": true
-    }
-  },
-  "wt_10_years_snail": {
-    "category": "special",
-    "group": "snails",
-    "costGold": -1,
     "hideUntilUnlocked": true,
     "tags": {
       "fictional": true
@@ -4908,14 +4793,6 @@
     }
   },
   "janissary_decal": {
-    "category": "special",
-    "costGold": -1,
-    "hideUntilUnlocked": true,
-    "tags": {
-      "fictional": true
-    }
-  },
-  "red_stork_decal": {
     "category": "special",
     "costGold": -1,
     "hideUntilUnlocked": true,
@@ -8757,124 +8634,88 @@
     "hideUntilUnlocked": true
   },
   "rocaf_7_tfw_dragon": {
-    "category": "china",
-    "group": "aircraft",
+    "category": "weekly",
     "costGold": 200,
-    "unlock": "rocaf_7_tfw_dragon",
-    "hideUntilUnlocked": true
+    "unlock": "rocaf_7_tfw_dragon"
   },
   "jp_1_32_tftg_cobra": {
-    "category": "japan",
-    "group": "aircraft",
+    "category": "weekly",
     "costGold": 200,
-    "unlock": "jp_1_32_tftg_cobra",
-    "hideUntilUnlocked": true
+    "unlock": "jp_1_32_tftg_cobra"
   },
   "ge_fast_missile_boat_flotilia": {
-    "category": "germany",
-    "group": "ships",
+    "category": "weekly",
     "costGold": 200,
-    "unlock": "ge_fast_missile_boat_flotilia",
-    "hideUntilUnlocked": true
+    "unlock": "ge_fast_missile_boat_flotilia"
   },
   "fr_10th_armoured_division": {
-    "category": "france",
-    "group": "tanks",
+    "category": "weekly",
     "costGold": 200,
-    "unlock": "fr_10th_armoured_division",
-    "hideUntilUnlocked": true
+    "unlock": "fr_10th_armoured_division"
   },
   "se_wendes_artillery_regiment": {
-    "category": "sweden",
-    "group": "tanks",
+    "category": "weekly",
     "costGold": 200,
-    "unlock": "se_wendes_artillery_regiment",
-    "hideUntilUnlocked": true
+    "unlock": "se_wendes_artillery_regiment"
   },
   "us_1_9_cav_headhunters": {
-    "category": "usa",
-    "group": "aircraft",
+    "category": "weekly",
     "costGold": 200,
-    "unlock": "us_1_9_cav_headhunters",
-    "hideUntilUnlocked": true
+    "unlock": "us_1_9_cav_headhunters"
   },
   "ussr_2_guards_tank_corps": {
-    "category": "ussr",
-    "group": "tanks",
+    "category": "weekly",
     "costGold": 200,
-    "unlock": "ussr_2_guards_tank_corps",
-    "hideUntilUnlocked": true
+    "unlock": "ussr_2_guards_tank_corps"
   },
   "uk_20th_armoured_brigade": {
-    "category": "britain",
-    "group": "tanks",
+    "category": "weekly",
     "costGold": 200,
-    "unlock": "uk_20th_armoured_brigade",
-    "hideUntilUnlocked": true
+    "unlock": "uk_20th_armoured_brigade"
   },
   "za_no_44_sqn_cat_glass": {
+    "category": "weekly",
+    "costGold": 200,
+    "unlock": "za_no_44_sqn_cat_glass"
+  },
+  "it_91_sqn_10g_griffin": {
+    "category": "weekly",
+    "costGold": 200,
+    "unlock": "it_91_sqn_10g_griffin"
+  },
+  "ge_521h_pzj_abt": {
+    "category": "germany",
+    "group": "tanks",
+    "unlock": "ge_521h_pzj_abt",
+    "hideUntilUnlocked": true
+  },
+  "jp_7th_anti_aircraft_regiment": {
+    "category": "japan",
+    "group": "tanks",
+    "costGold": 200,
+    "hideUntilUnlocked": true,
+    "hideForLang": "HChinese"
+  },
+  "fr_1_sqn_gc1_3_snake": {
+    "category": "france",
+    "group": "aircraft",
+    "costGold": 200,
+    "unlock": "fr_1_sqn_gc1_3_snake",
+    "hideUntilUnlocked": true
+  },
+  "it_battalion_lupo": {
+    "category": "italy",
+    "group": "tanks",
+    "costGold": 200,
+    "unlock": "it_battalion_lupo",
+    "hideUntilUnlocked": true
+  },
+  "za_no_3_sqn_semper_pugnans": {
     "category": "allies",
     "group": "aircraft",
     "costGold": 200,
-    "unlock": "za_no_44_sqn_cat_glass",
+    "unlock": "za_no_3_sqn_semper_pugnans",
     "hideUntilUnlocked": true
-  },
-  "it_91_sqn_10g_griffin": {
-    "category": "italy",
-    "group": "aircraft",
-    "costGold": 200,
-    "unlock": "it_91_sqn_10g_griffin",
-    "hideUntilUnlocked": true
-  },
-  "ge_521h_pzj_abt": {
-    "category": "weekly",
-    "costGold": 200,
-    "unlock": "ge_521h_pzj_abt"
-  },
-  "jp_7th_anti_aircraft_regiment": {
-    "category": "weekly",
-    "costGold": 200,
-    "unlock": "jp_7th_anti_aircraft_regiment"
-  },
-  "fr_1_sqn_gc1_3_snake": {
-    "category": "weekly",
-    "costGold": 200,
-    "unlock": "fr_1_sqn_gc1_3_snake"
-  },
-  "it_battalion_lupo": {
-    "category": "weekly",
-    "costGold": 200,
-    "unlock": "it_battalion_lupo"
-  },
-  "za_no_3_sqn_semper_pugnans": {
-    "category": "weekly",
-    "costGold": 200,
-    "unlock": "za_no_3_sqn_semper_pugnans"
-  },
-  "uk_2nd_mcm_badge": {
-    "category": "weekly",
-    "costGold": 200,
-    "unlock": "uk_2nd_mcm_badge"
-  },
-  "no_brigade_west": {
-    "category": "weekly",
-    "costGold": 200,
-    "unlock": "no_brigade_west"
-  },
-  "usa_43th_tank_battalion": {
-    "category": "weekly",
-    "costGold": 200,
-    "unlock": "usa_43th_tank_battalion"
-  },
-  "iaf_119_sqn_bat": {
-    "category": "weekly",
-    "costGold": 200,
-    "unlock": "iaf_119_sqn_bat"
-  },
-  "su_ulan_ude_bear": {
-    "category": "weekly",
-    "costGold": 200,
-    "unlock": "su_ulan_ude_bear"
   },
   "ca_no_419_sqn_rcaf_vr_x": {
     "category": "allies",
