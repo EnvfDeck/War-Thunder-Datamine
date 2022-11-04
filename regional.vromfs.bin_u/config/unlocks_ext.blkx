@@ -24069,6 +24069,11 @@
       }
     },
     {
+      "id": "loading_screen_wt_10_years",
+      "type": "award",
+      "hidden": false
+    },
+    {
       "id": "loading_screen_9_years",
       "type": "award",
       "hidden": false
@@ -29777,6 +29782,40 @@
       "chapter": "10th_anniversary",
       "mode": {
         "type": "missionsPlayedScore",
+        "num": 1,
+        "condition": [
+          {
+            "type": "online"
+          },
+          {
+            "type": "activity",
+            "percent": 70
+          },
+          {
+            "type": "playerUnitRank",
+            "minRank": 3,
+            "inSession": true,
+            "inSessionAnd": false
+          },
+          {
+            "type": "timeRange",
+            "beginDate": "2022-10-31 11:00:00",
+            "endDate": "2022-11-07 11:30:00"
+          }
+        ]
+      }
+    },
+    {
+      "id": "2022_11_31_10th_anniversary_loading",
+      "locDescId": "2022_11_31_10th_anniversary_loading/desc",
+      "userLogId": "2022_11_31_10th_anniversary_loading_trophy",
+      "type": "trophy",
+      "amount_trophies": 1,
+      "chapter": "10th_anniversary",
+      "icon": "https://static.warthunder.com/upload/image/Promo/10th_anniversary_loading.png",
+      "lockStyle": "lock",
+      "mode": {
+        "type": "missionsWonScore",
         "num": 1,
         "condition": [
           {
@@ -74843,9 +74882,11 @@
     },
     {
       "id": "gift_10th_anniversary_loading_trophy",
-      "userLogId": "10th_anniversary_loading_trophy",
+      "userLogId": "sturmmorser_sturmtiger_loading_trophy",
       "type": "trophy",
       "amount_trophies": 1,
+      "icon": "https://static-ggc.gaijin.net/loading_screen/sturmmorser_sturmtiger_loading.png",
+      "lockStyle": "lock",
       "chapter": "sturmtiger_dream",
       "showInDesc": true,
       "mode": {
@@ -74861,6 +74902,11 @@
           "31_10_anniversary_2022_tank_stage"
         ]
       }
+    },
+    {
+      "id": "loading_screen_sturmmorser_sturmtiger",
+      "type": "award",
+      "hidden": false
     },
     {
       "id": "germ_sturmmorser_sturmtiger",
